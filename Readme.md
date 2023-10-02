@@ -24,7 +24,8 @@ If you would like to contribute to this project, please follow these steps:
 4. Push to the branch (git push origin feature/your-feature-name).
 5. Open a pull request on GitHub.
 ### License ###
-This project is licensed under the <u>MIT License.<u>
-
+This project is licensed under the [<u>MIT License.<u>](https://opensource.org/license/mit/)
+### Links ###
+[Visit my chanel](https://www.youtube.com/@igorcapote5819/videos)
 
 
