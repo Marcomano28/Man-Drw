@@ -6,7 +6,7 @@ This project uses p5.js to create an interactive experience that combines a movi
 + **Abstract Canvas:** *The canvas gradually fills with moving and shape-shifting color areas. Each interaction with the puppet can influence the ever-evolving visual composition.*
 * **Dynamic Interaction:** *Observe how the color areas interact with each other and with the puppet as you move within the frame. Each movement creates a unique visual experience.*
 ### Installation ###
-1. Clone the repository to your local machine using 'git clone https://github.com/Marcomano28/Marcomano28.git'.
+1. Clone the repository to your local machine using 'git clone https://github.com/Marcomano28/Man-Drw.git'.
 2. Open the project folder in your preferred code editor.
 
 ### Usage ###
