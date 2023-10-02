@@ -1,6 +1,6 @@
 ## Marionet ##
 #### Description ####
-This project uses p5.js to create an interactive experience that combines a moving puppet with the creation of an abstract canvas of color areas. The puppet is controlled by mouse actions, and as you move across the screen, the puppet and the color areas dynamically respond.![See here](ima.png)
+This project uses p5.js to create an interactive experience that combines a moving puppet with the creation of an abstract canvas of color areas. The puppet is controlled by mouse actions, and as you move across the screen, the puppet and the color areas dynamically respond.![See here](ima.jpg)
 ### Features ###
 + **Interactive Puppets:** *Control the puppet's movement using the mouse. The puppet responds to the real-time position of the cursor.*
 + **Abstract Canvas:** *The canvas gradually fills with moving and shape-shifting color areas. Each interaction with the puppet can influence the ever-evolving visual composition.*
